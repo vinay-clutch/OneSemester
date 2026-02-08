@@ -9,7 +9,7 @@ const paths = [
   { name: 'devops', label: 'DevOps' },
   { name: 'web', label: 'Full Stack Javascript' },
   { name: 'dsa', label: 'Practical DSA' },
-  { name: "beyond", label: "Beyond One Semester" },
+  { name: "beyond", label: "Beyond Launch Blueprint" },
   { name: "gitandgithub", label: "Git and GitHub" }
 ];
 

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     images: ['https://i.imgur.com/sy7ZTsr.png'],
   },
   openGraph: {
-    siteName: "One Semester",
+    siteName: "Launch Blueprint",
     title: 'Web Development Roadmap',
     description: 'Full stack development with JavaScript and NextJS',
     images: [

@@ -6,18 +6,18 @@ import PathSelector from "./components/selector";
 import HelpWindow from "./components/help";
 
 export const metadata: Metadata = {
-  title: "One Semester Is All You Need",
-  description: "Learn programming in one semester with structured roadmaps",
+  title: "LaunchBlueprint",
+  description: "Learn programming with structured roadmaps",
   twitter: {
     card: 'summary_large_image',
-    title: 'One Semester Is All You Need',
-    description: 'Learn programming in one semester with structured roadmaps',
+    title: 'LaunchBlueprint',
+    description: 'Learn programming with structured roadmaps',
     images: ['https://i.imgur.com/oqu9P9j.png'],
   },
   openGraph: {
-    siteName: "One Semester",
-    title: 'One Semester Is All You Need',
-    description: 'Learn programming in one semester with structured roadmaps',
+    siteName: "Launch Blueprint",
+    title: 'LaunchBlueprint',
+    description: 'Learn programming with structured roadmaps',
     images: [
       {
         url: 'https://i.imgur.com/oqu9P9j.png',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
         url: 'https://i.imgur.com/oqu9P9j.png',
         width: 1800,
         height: 1600,
-        alt: 'One Semester Programming Roadmaps',
+        alt: 'Launch Blueprint',
       },
     ],
   }

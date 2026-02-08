@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     images: ['https://i.imgur.com/AjiMYsf.png'],
   },
   openGraph: {
-    siteName: "One Semester",
+    siteName: "Launch Blueprint",
     title: 'Devops and Systems Design Roadmap',
     description: 'All about Devops and Systems design',
     images: [

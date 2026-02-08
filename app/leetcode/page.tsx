@@ -8,12 +8,12 @@ export const generateMetadata = (): Metadata => {
     description: "Collection of miscellaneous resources.",
     twitter: {
       card: "summary_large_image",
-      title: "Beyond One Semester",
+      title: "Beyond Launch Blueprint",
       description: "Collection of miscellaneous resources.",
       images: ["https://i.imgur.com/wPZN4AU.png"],
     },
     openGraph: {
-      siteName: "One Semester",
+      siteName: "Launch Blueprint",
       title: "Leetcode Snippet",
       description: "Collection of miscellaneous resources.",
       images: [
@@ -26,7 +26,7 @@ export const generateMetadata = (): Metadata => {
           url: "https://i.imgur.com/wPZN4AU.png",
           width: 1800,
           height: 1600,
-          alt: "One Semester Programming Roadmaps",
+          alt: "Launch Blueprint",
         },
       ],
     },

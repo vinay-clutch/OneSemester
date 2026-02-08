@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     images: ['https://i.imgur.com/KnN0ZPb.png'],
   },
   openGraph: {
-    siteName: "One Semester",
+    siteName: "Launch Blueprint",
     title: 'AI // ML',
     description: 'Learn AI // ML',
     images: [

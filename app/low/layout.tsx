@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     images: ['https://i.imgur.com/BwGG7Ch.png'],
   },
   openGraph: {
-    siteName: "One Semester",
+    siteName: "Launch Blueprint",
     title: 'Low-Level Programming Roadmap',
     description: 'Systems programming and low-level development',
     images: [

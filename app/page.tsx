@@ -3,18 +3,18 @@ import Sidebar from "./components/sidebar";
 
 export const generateMetadata = (): Metadata => {
   return {
-    title: "One Semester Is All You Need",
-    description: "Learn programming in one semester with structured roadmaps",
+    title: "LaunchBlueprint",
+    description: "Learn programming with structured roadmaps",
     twitter: {
       card: 'summary_large_image',
-      title: 'One Semester Is All You Need',
-      description: 'Learn programming in one semester with structured roadmaps',
+      title: 'LaunchBlueprint',
+      description: 'Learn programming with structured roadmaps',
       images: ['https://i.imgur.com/oqu9P9j.png'],
     },
     openGraph: {
-      siteName: "One Semester",
-      title: 'One Semester Is All You Need',
-      description: 'Learn programming in one semester with structured roadmaps',
+      siteName: "Launch Blueprint",
+      title: 'LaunchBlueprint',
+      description: 'Learn programming with structured roadmaps',
       images: [
         {
           url: 'https://i.imgur.com/oqu9P9j.png',
@@ -25,7 +25,7 @@ export const generateMetadata = (): Metadata => {
           url: 'https://i.imgur.com/oqu9P9j.png',
           width: 1800,
           height: 1600,
-          alt: 'One Semester Programming Roadmaps',
+          alt: 'Launch Blueprint',
         },
       ],
     }
@@ -38,7 +38,7 @@ export default function Home() {
       <div className="flex w-full md:w-1/2 py-16">
         <Sidebar />
         <main className="flex-1 p-0 md:p-0 w-full md:pl-0 border-l border-neutral-700 ">
-          <h1 className="text-3xl md:text-4xl font-bold mb-2 px-4 pt-2">One Semester Is All You Need</h1>
+          <h1 className="text-3xl md:text-4xl font-bold mb-2 px-4 pt-2">LaunchBlueprint</h1>
           <p className="text-2xl px-4 text-emerald-400">Who is this for?</p>
           <p className="text-2xl px-4 py-2">These roadmaps are mainly targetted towards beginners who are right now in college, to get them started quickly. This is NOT for people who want to go deep on these topics.</p>
           <p className="text-2xl px-4 text-emerald-400">How do I use this?</p>

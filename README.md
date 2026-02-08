@@ -1,6 +1,6 @@
-# OneSemester
+# LaunchBlueprint
 
 <samp>
-one semester is all you need
+your learning blueprint
 </samp>
 <!-- ![image](https://i.imgur.com/LsqYr8P.png) -->
